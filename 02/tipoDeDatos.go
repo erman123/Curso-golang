@@ -10,7 +10,6 @@ import "fmt"
 	b = 5
 
 	//casting
-
 	c := a + int(b)
 	fmt.Println(c)
 }
