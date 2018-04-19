@@ -1,6 +1,6 @@
 package main
 import "fmt"
-func main()  {
+func inicio()  {
 	/*
 	if !(5 < 10){
 		fmt.Println("verdadero")
